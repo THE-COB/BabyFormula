@@ -11,6 +11,7 @@
 - connections to the roeVwade conversations that are ongoing
 
 ## Wish List
+- Add tweets to database (??)
 - Location Inference (dialect, BFS through friend circle until someone slips up, unsupervised learning)
 - Clustering reactions with word2vec etc
 - How is the impact of the shortage spread across racial/economic groups?
