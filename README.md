@@ -1,14 +1,23 @@
 # BabyFormula
 
-## Soham Tasks
-- Political Leaning of each tweet
-- Research literature to infer location from tweet
-
+## Rohit Tasks
+- 
 
 ## Rohan Tasks
 - Biden now has this operation 'fly formula'? Can we track reactions to this? 
 - Retweets of political figures/political messaging (I'll ask Joyojeet)
 - connections to the roeVwade conversations that are ongoing
+
+## Soham Tasks
+- Political Leaning of each tweet (Republican V Democrat)
+- State-wise distribution of Tweets
+- Research literature to infer location from tweet
+
+## Unassigned Tasks (up for grabs)
+- Tweets from politicians (compare traction received on tweets on Formula vs overall tweets)
+- Wordcloud (hashtag cloud) per state
+- Fake News (Formula sent to Mexico claims) in Biden's tweets
+- Topics in response to Biden's tweet on Op Fly Formula
 
 ## Wish List
 - Add tweets to database (??)
