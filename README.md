@@ -1,17 +1,17 @@
 # BabyFormula
 
 ## Rohit Tasks
-- 
+- [https://www.census.gov/library/visualizations/interactive/wic-eligibility-participation.html](Wic program eligibility Census) exploration
 
 ## Rohan Tasks
 - Biden now has this operation 'fly formula'? Can we track reactions to this? 
-- Retweets of political figures/political messaging (I'll ask Joyojeet)
+-   word cloud, sentiment
 - connections to the roeVwade conversations that are ongoing
+-   word cloud, sentiment
 
 ## Soham Tasks
 - Political Leaning of each tweet (Republican V Democrat)
-- State-wise distribution of Tweets
-- Research literature to infer location from tweet
+- State-wise distribution of Tweets (general and baby-stuff-related)
 
 ## Unassigned Tasks (up for grabs)
 - Tweets from politicians (compare traction received on tweets on Formula vs overall tweets)
