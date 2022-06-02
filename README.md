@@ -1,7 +1,7 @@
 # BabyFormula
 
 ## Rohit Tasks
-- https://www.census.gov/library/visualizations/interactive/wic-eligibility-participation.html(Wic program eligibility Census) exploration
+- https://www.census.gov/library/visualizations/interactive/wic-eligibility-participation.html (Wic program eligibility Census) exploration
 
 ## Rohan Tasks
 - Biden now has this operation 'fly formula'? Can we track reactions to this? 
