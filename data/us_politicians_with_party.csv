@@ -1,0 +1,649 @@
+idk,username,twitter_name,first_name,last_name,status,state,gun_deathts_per_100k,guns_per_household,error,party
+550,repbarrymoore,Barry Moore,Barry,Moore,member_HOR,Alabama,23.6,55.5,,Republican
+179,usrepgarypalmer,Gary Palmer,Gary,Palmer,member_HOR,Alabama,23.6,55.5,,Republican
+229,RepJerryCarl,Jerry Carl,Jerry,Carl,member_HOR,Alabama,23.6,55.5,error-ID,Republican
+298,kayiveyforgov,Kay Ivey,Kay,Ivey,SG,Alabama,23.6,55.5,,Republican
+382,RepMikerogersAL,Mike Rogers Campaign,Mike,Rogers,member_HOR,Alabama,23.6,55.5,error-ID,Republican
+389,repmobrooks,Mo Brooks,Mo,Brooks,member_HOR,Alabama,23.6,55.5,,Republican
+428,senshelby,Richard Shelby,Richard,Shelby,senator,Alabama,23.6,55.5,,Republican
+437,robert_aderholt,Robert Aderholt,Robert,Aderholt,member_HOR,Alabama,23.6,55.5,,Republican
+513,TomColeOK04,Tom,Tom,Cole,member_HOR,Alabama,23.6,55.5,,Republican
+522,ttuberville,Tommy Tuberville,Tommy,Tuberville,senator,Alabama,23.6,55.5,,Republican
+539,willainsworthal,Will Ainsworth,Will,Ainsworth,SLG,Alabama,23.6,55.5,,Republican
+118,dansullivan_ak,Dan Sullivan,Dan,Sullivan,senator,Alaska,23.5,55.5,,Republican
+589,ltgovmeyer,Kevin Meyer,Kevin,Meyer,SLG,Alaska,23.5,55.5,,Republican
+596,lisamurkowski,Lisa Murkowski,Lisa,Murkowski,senator,Alaska,23.5,55.5,,Republican
+604,govdunleavy,Mike Dunleavy,Mike,Dunleavy,SG,Alaska,23.5,55.5,,Republican
+19,andybiggs4az,Andy Biggs,Andy,Biggs,member_HOR,Arizona,16.7,64.5,,Republican
+24,ann_kirkpatrick,Ann Kirkpatrick,Ann,Kirkpatrick,member_HOR,Arizona,16.7,64.5,,Democratic
+128,davidschweikert,David Schweikert,David,Schweikert,member_HOR,Arizona,16.7,64.5,,Republican
+135,debbielesko,Debbie Lesko,Debbie,Lesko,member_HOR,Arizona,16.7,64.5,,Republican
+154,dougducey,Doug Ducey,Doug,Ducey,SG,Arizona,16.7,64.5,,Republican
+190,gregstantonaz,Greg Stanton,Greg,Stanton,member_HOR,Arizona,16.7,64.5,,Democratic
+310,kyrstensinema,Kyrsten Sinema,Kyrsten,Sinema,senator,Arizona,16.7,64.5,,Democratic
+601,senmarkkelly,Mark Kelly,Mark,Kelly,senator,Arizona,16.7,64.5,,Democratic
+405,drpaulgosar,Paul Gosar,Paul,Gosar,member_HOR,Arizona,16.7,64.5,,Republican
+452,reprubengallego,Ruben Gallego,Ruben,Gallego,member_HOR,Arizona,16.7,64.5,,Democratic
+518,tomohalleran,Tom OHalleran,Tom,OHalleran,member_HOR,Arizona,16.7,64.5,,Democratic
+30,asaforar,Asa Hutchinson,Asa,Hutchinson,SG,Arkansas,22.6,46.3,,Republican
+75,bruce_westerman,Bruce Westerman,Bruce,Westerman,member_HOR,Arkansas,22.6,46.3,,Republican
+176,electfrench,French Hill,French,Hill,member_HOR,Arkansas,22.6,46.3,,Republican
+255,JohnBoozman,John Boozman,John,Boozman,senator,Arkansas,22.6,46.3,error-ID,Republican
+429,RepRickCrawford,Rick Crawford,Rick,Crawford,member_HOR,Arkansas,22.6,46.3,Error-fixedID,Republican
+484,rep_stevewomack,Steve Womack,Steve,Womack,member_HOR,Arkansas,22.6,46.3,,Republican
+619,ltgovtimgriffin,Tim Griffin,Tim,Griffin,SLG,Arkansas,22.6,46.3,,Republican
+514,tomcottonar,Tom Cotton,Tom,Cotton,senator,Arkansas,22.6,46.3,,Republican
+,SecMayorkas,Alejandro Mayorkas,Alejandro,Mayorkas,Secretary of Homeland Security,Cabinet,,,ADDED,Democratic
+,SecBlinken,Anthony Blinken,Anthony,Blinken,Secretary of State,Cabinet,,,ADDED,Democratic
+,AmbassadorTai,Catherine Tai,Catherine,Tai,US Trade Representative,Cabinet,,,ADDED,Democratic
+,SecDebHaaland,Deb Haaland,Deb,Haaland,Secretary of the Interior,Cabinet,,,ADDED,Democratic
+,SecRaimondo,Gina Raimondo,Gina,Raimondo,Secretary of Commerce,Cabinet,,,ADDED,Democratic
+,SecYellen,Janet Yellen,Janet,Yellen,Secretary of the Treasury,Cabinet,,,ADDED,Democratic
+,joebiden,Joe Biden,Joe,Biden,President,Cabinet,,,ADDED,Democratic
+,ClimateEnvoy,John Kerry,John,Kerry,Special Envoy for the Climate,Cabinet,,,ADDED,Democratic
+,kamalaharris,Kamala Harris,Kamala,Harris,Vice President,Cabinet,,,ADDED,Democratic
+,SecGranholm,Katherine Granholm,Katherine,Granholm,Secretary of Energy,Cabinet,,,ADDED,Democratic
+,USAmbUN,Linda Thomas Greenfield,Linda,Thomas-Greenfield,United States Ambassador to the UN,Cabinet,,,ADDED,Democratic
+,SecDef,Lloyd Austin,Lloyd,Austin,Secretary of Defense,Cabinet,,,ADDED,Democratic
+,SecFudge,Marcia Fudge,Marcia,Fudge,Secretary of HUD,Cabinet,,,ADDED,Democratic
+,SecMartyWalsh,Marty Walsh,Marty,Walsh,Secretary of Labor,Cabinet,,,ADDED,Democratic
+,EPAMichaelRegan,Michael Regan,Michael,Regan,EPA Administrator,Cabinet,,,ADDED,Democratic
+,SecCardona,Miguel Cardona,Miguel,Cardona,Secretary of Education,Cabinet,,,ADDED,Democratic
+,SecretaryPete,Pete Buttigieg,Pete,Buttigieg,Secretary of Transportation,Cabinet,,,ADDED,Democratic
+,POTUS,potus,Joe,Biden,President,Cabinet,,,ADDED,Democratic
+,WHCOS,Ronald Klain,Ronald,Klain,White House Chief of Staff,Cabinet,,,ADDED,Democratic
+,SecVilsack,Tom Vilsack,Tom,Vilsack,Secretary of Agriculture,Cabinet,,,ADDED,Democratic
+,VP,Vice President,Kamala,Harris,Vice President,Cabinet,,,ADDED,Democratic
+,whitehouse,White House,White,House,White House,Cabinet,,,ADDED,Democratic
+,SecBecerra,Xavier Becerra,Xavier,Becerra,Secretary of Health,Cabinet,,,ADDED,Democratic
+3,adamschiff,Adam Schiff,Adam,Schiff,member_HOR,California,8.5,28.3,,Democratic
+7,alanlowenthal,Alan Lowenthal,Alan,Lowenthal,member_HOR,California,8.5,28.3,,Democratic
+10,SenAlexpadilla,Alex Padilla,Alex,Padilla,senator,California,8.5,28.3,,Democratic
+13,repbera,Ami Bera MD,Ami,Bera,member_HOR,California,8.5,28.3,,Democratic
+549,repannaeshoo,Ann Eshoo,Anna,Eshoo,member_HOR,California,8.5,28.3,,Democratic
+35,RepBarbaraLee,Barbara Lee,Barbara,Lee,member_HOR,California,8.5,28.3,error-fixed ID,Democratic
+64,bradsherman,Brad Sherman,Brad,Sherman,member_HOR,California,8.5,28.3,,Democratic
+122,darrellissa,Darrell Issa,Darrell,Issa,member_HOR,California,8.5,28.3,,Republican
+564,RepDavidValadao,David Valadao,David,Valadao,member_HOR,California,8.5,28.3,,Republican
+565,SenFeinstein,Dianne Feinstein,Dianne,Feinstein,senator,California,8.5,28.3,,Democratic
+155,douglamalfa,Doug LaMalfa,Doug,LaMalfa,member_HOR,California,8.5,28.3,,Republican
+165,eleniforca,Eleni Kounalakis,Eleni,Kounalakis,SLG,California,8.5,28.3,,Democratic
+170,ericswalwell,Eric Swalwell,Eric,Swalwell,member_HOR,California,8.5,28.3,,Democratic
+181,gavinnewsom,Gavin Newsom,Gavin,Newsom,SG,California,8.5,28.3,,Democratic
+204,jackiespeier,Jackie Speier,Jackie,Speier,member_HOR,California,8.5,28.3,,Democratic
+582,rephuffman,Jared Huffman,Jared,Huffman,member_HOR,California,8.5,28.3,,Democratic
+223,teamobernolte,Jay Obernolte,Jay,Obernolte,member_HOR,California,8.5,28.3,,Republican
+230,jerrymcnerney,Jerry McNerney,Jerry,McNerney,member_HOR,California,8.5,28.3,,Democratic
+584,repjimcosta,Jim Costa,Jim,Costa,member_HOR,California,8.5,28.3,,Democratic
+243,jimmygomezca,Jimmy Gomez,Jimmy,Gomez,member_HOR,California,8.5,28.3,,Democratic
+244,jimmypanetta,Jimmy Panetta,Jimmy,Panetta,member_HOR,California,8.5,28.3,,Democratic
+273,speakerperez,John A Prez,Jon,A,SLG,California,8.5,28.3,,Democratic
+261,repgaramendi,John Garamendi,John,Garamendi,member_HOR,California,8.5,28.3,,Democratic
+258,JohnCornyn,JohnHCox,John,Cornyn,senator,California,8.5,28.3,ERROR - change state to Texas,Republican
+265,RepJohnKatko,JohnHCox,John,Katko,member_HOR,California,8.5,28.3,,Republican
+272,RepJohnYarmuth,JohnHCox,John,Yarmuth,member_HOR,California,8.5,28.3,,Democratic
+263,SenJohnHoeven,JohnHCox,John,Hoeven,senator,California,8.5,28.3,ERROR - change state to North Dakota,Republican
+256,therealjohnhcox,JohnHCox,John,Carney,SG,California,8.5,28.3,ERROR - REMOVE,Republican
+280,joshharder,Josh Harder,Josh,Harder,member_HOR,California,8.5,28.3,,Democratic
+586,repjuanvargas,Juan Vargas,Juan,Vargas,member_HOR,California,8.5,28.3,,Democratic
+283,repjudychu,Judy Chu,Judy,Chu,member_HOR,California,8.5,28.3,,Democratic
+284,juliabrownley,Julia Brownley,Julia,Brownley,member_HOR,California,8.5,28.3,,Democratic
+287,karenbasstweets,Karen Bass,Karen,Bass,member_HOR,California,8.5,28.3,,Democratic
+296,katieporteroc,Katie Porter,Katie,Porter,member_HOR,California,8.5,28.3,,Democratic
+301,KenCalvert,Ken Calvert,Ken,Calvert,member_HOR,California,8.5,28.3,error-ID,Republican
+304,GOPleader,Kevin McCarthy,Kevin,McCarthy,member_HOR,California,8.5,28.3,,Republican
+317,lindatsanchez,Linda Sanchez,Linda,Sanchez,member_HOR,California,8.5,28.3,,Democratic
+327,RepLoucorrea,Lou Correa,Lou,Correa,member_HOR,California,8.5,28.3,Error - updated ID,Democratic
+597,reproybalallard,Lucille Roybal-Allard,Lucille,RoybalAllard,member_HOR,California,8.5,28.3,,Democratic
+343,repdesaulnier,Mark DeSaulnier,Mark,DeSaulnier,member_HOR,California,8.5,28.3,,Democratic
+347,repmarktakano,Mark Takano,Mark,Takano,member_HOR,California,8.5,28.3,,Democratic
+357,repmaxinewaters,Maxine Waters,Maxine,Waters,member_HOR,California,8.5,28.3,,Democratic
+367,michellesteelca,Michelle Steel,Michelle,Steel,member_HOR,California,8.5,28.3,,Republican
+606,repmikegarcia,Mike Garcia,Mike,Garcia,member_HOR,California,8.5,28.3,,Republican
+379,mikelevin,Mike Levin,Mike,Levin,member_HOR,California,8.5,28.3,,Democratic
+385,RepThompson,Mike Thompson,Mike,Thompson,member_HOR,California,8.5,28.3,,Democratic
+394,speakerpelosi,Nancy Pelosi,Nancy,Pelosi,member_HOR,California,8.5,28.3,,Democratic
+395,nanette4ca,Nanette Barragn,Nanette,Barragn,member_HOR,California,8.5,28.3,,Democratic
+399,NormaJTorres,Norma Torres,Norma,Torres,member_HOR,California,8.5,28.3,error-ID,Democratic
+408,RepPeteAguilar,Pete Aguilar,Pete,Aguilar,member_HOR,California,8.5,28.3,,Democratic
+612,repraulgrijalva,Raul Garcia,Ral,Grijalva,member_HOR,California,8.5,28.3,,Democratic
+423,repraulruizmd,Raul Ruiz,Raul,Ruiz,member_HOR,California,8.5,28.3,,Democratic
+185,gracenapolitano,RepGrace Napolitano,Grace,Napolitano,member_HOR,California,8.5,28.3,,Democratic
+434,rokhanna,Ro Khanna,Ro,Khanna,member_HOR,California,8.5,28.3,,Democratic
+455,carbajalsalud,Salud Carbajal,Salud,Carbajal,member_HOR,California,8.5,28.3,,Democratic
+458,sarajacobsca,Sara Jacobs,Sara,Jacobs,member_HOR,California,8.5,28.3,,Democratic
+462,scottpetersca52,Scott Peters CA,Scott,Peters,member_HOR,California,8.5,28.3,,Democratic
+499,tedlieu,Ted Lieu,Ted,Lieu,member_HOR,California,8.5,28.3,,Democratic
+517,repmcclintock,Tom McClintock,Tom,McClintock,member_HOR,California,8.5,28.3,,Republican
+620,repcardenas,Tony Cardenas,Tony,Crdenas,member_HOR,California,8.5,28.3,,Democratic
+541,youngkimca,Young Kim,Young,Kim,member_HOR,California,8.5,28.3,,Republican
+544,zoelofgren,Zoe Lofgren,Zoe,Lofgren,member_HOR,California,8.5,28.3,,Democratic
+143,RepDianaDeGette,Diana DeGette,Diana,DeGette,member_HOR,Colorado,15.4,45.1,,Democratic
+145,repprimavera,Dianne Primavera,Dianne,Primavera,SLG,Colorado,15.4,45.1,,Democratic
+567,repdlamborn,Doug Lamborn,Doug,Lamborn,member_HOR,Colorado,15.4,45.1,,Republican
+163,RepPerlmutter,Ed Perlmutter,Ed,Perlmutter,member_HOR,Colorado,15.4,45.1,,Democratic
+219,jaredpolis,Jared Polis,Jared,Polis,SG,Colorado,15.4,45.1,,Democratic
+220,RepJasonCrow,JasonSmithMO,Jason,Crow,member_HOR,Colorado,15.4,45.1,"error-ID, state",Democratic
+250,joeneguse,Joe Neguse,Joe,Neguse,member_HOR,Colorado,15.4,45.1,,Democratic
+262,SenatorHick,John Hickenlooper Archived,John,Hickenlooper,senator,Colorado,15.4,45.1,,Democratic
+300,RepKenBuck,Ken Buck,Ken,Buck,member_HOR,Colorado,15.4,45.1,error-ID,Republican
+314,laurenboebert,Lauren Boebert,Lauren,Boebert,member_HOR,Colorado,15.4,45.1,,Republican
+359,senatorbennet,Michael Bennet,Michael,Bennet,senator,Colorado,15.4,45.1,,Democratic
+91,chrismurphyct,Chris Murphy,Chris,Murphy,senator,Connecticut,6,23.6,,Democratic
+207,jahanahayesct,Jahana Hayes,Jahana,Hayes,member_HOR,Connecticut,6,23.6,,Democratic
+238,jahimes,Jim Himes,Jim,Himes,member_HOR,Connecticut,6,23.6,,Democratic
+248,joecourtneyct,Joe Courtney,Joe,Courtney,member_HOR,Connecticut,6,23.6,,Democratic
+396,nedlamont,Ned Lamont,Ned,Lamont,SG,Connecticut,6,23.6,,Democratic
+424,senblumenthal,Richard Blumenthal,Richard,Blumenthal,senator,Connecticut,6,23.6,,Democratic
+449,rosa_delauro,Rosa DeLauro,Rosa,DeLauro,member_HOR,Connecticut,6,23.6,,Democratic
+616,lgsusanb,Susan Bysiewicz,Susan,Bysiewicz,SLG,Connecticut,6,23.6,,Democratic
+43,bethanyhalllong,Bethany HallLong,Bethany,HallLong,SLG,Delaware,14.4,34.4,,Democratic
+89,chriscoonsforde,Chris Coons,Chris,Coons,senator,Delaware,14.4,34.4,,Democratic
+319,lisabrochester,Lisa Blunt Rochester,Lisa,Blunt,member_HOR,Delaware,14.4,34.4,,Democratic
+512,SenatorCarper,Tom Carper,Tom,Carper,senator,Delaware,14.4,34.4,,Democratic
+6,allawsonjr,Al Lawson,Al,Lawson,member_HOR,Florida,13.7,35.3,,Democratic
+52,congbillposey,Bill Posey,Bill,Posey,member_HOR,Florida,13.7,35.3,,Republican
+73,brianmastfl,Brian Mast,Brian,Mast,member_HOR,Florida,13.7,35.3,,Republican
+79,byrondonalds,Byron Donalds,Byron,Donalds,member_HOR,Florida,13.7,35.3,,Republican
+558,RepCarlos,Carlos Gimenez,Carlos,Gimnez,member_HOR,Florida,13.7,35.3,,Republican
+86,charliecrist,Charlie Crist,Charlie,Crist,member_HOR,Florida,13.7,35.3,,Democratic
+119,repwebster,Daniel Webster,Daniel,Webster,member_HOR,Florida,13.7,35.3,,Republican
+123,darrensoto,Darren Soto,Darren,Soto,member_HOR,Florida,13.7,35.3,,Democratic
+137,dwstweets,Debbie Wasserman Schultz,Debbie,Wasserman,member_HOR,Florida,13.7,35.3,,Democratic
+175,fswinthehouse,Frederica Wilson,Frederica,Wilson,member_HOR,Florida,13.7,35.3,,Democratic
+191,gregsteube,Greg Steube,Greg,Steube,member_HOR,Florida,13.7,35.3,,Republican
+193,repgusbilirakis,Gus Bilirakis,Gus,Bilirakis,member_HOR,Florida,13.7,35.3,Error-ID,Republican
+583,jeanettenunezfl,Jeanette Nuez,Jeanette,Nuez,SLG,Florida,13.7,35.3,,Republican
+269,jrutherfordfl,John Rutherford,John,Rutherford,member_HOR,Florida,13.7,35.3,,Republican
+277,repjosephgeller,Joseph Geller,Joseph,Morelle,member_HOR,Florida,13.7,35.3,,Democratic
+289,katcammack,Kat Cammack,Kat,Cammack,member_HOR,Florida,13.7,35.3,,Republican
+293,kathycastorfl,Kathy Castor,Kathy,Castor,member_HOR,Florida,13.7,35.3,,Democratic
+325,loisfrankel,Lois Frankel,Lois,Frankel,member_HOR,Florida,13.7,35.3,,Democratic
+337,maelvirasalazar,Mara Elvira Salazar ,Maria,Elvira,member_HOR,Florida,13.7,35.3,,Republican
+335,marcorubio,Marco Rubio,Marco,Rubio,senator,Florida,13.7,35.3,,Republican
+340,mariodbcamp,Mario Diaz Balart,Mario,Diaz Balart,member_HOR,Florida,13.7,35.3,,Republican
+355,mattgaetz,Matt Gaetz,Matt,Gaetz,member_HOR,Florida,13.7,35.3,,Republican
+364,michaelgwaltz,Michael Waltz,Michael,Waltz,member_HOR,Florida,13.7,35.3,,Republican
+608,drnealdunnfl2,Neal Dunn,Neal,Dunn,member_HOR,Florida,13.7,35.3,,Republican
+431,senrickscott,Rick Scott,Rick,Scott,senator,Florida,13.7,35.3,,Republican
+443,rondesantisfl,Ron DeSantis,Ron,DeSantis,SG,Florida,13.7,35.3,,Republican
+461,scottfranklinfl,Scott Franklin,Scott,Franklin,member_HOR,Florida,13.7,35.3,,Republican
+467,sheila4congress,Sheila CherfilusMcCormick JD,Sheila,CherfilusMcCormick,member_HOR,Florida,13.7,35.3,,Democratic
+477,RepStephMurphy,Stephanie Murphy,Stephanie,Murphy,member_HOR,Florida,13.7,35.3,,Democratic
+498,teddeutch,Ted Deutch,Ted,Deutch,member_HOR,Florida,13.7,35.3,,Democratic
+530,val_demings,Val Demings,Val,Demings,member_HOR,Florida,13.7,35.3,,Democratic
+532,VernBuchanan,Vern Buchanan,Vern,Buchanan,member_HOR,Florida,13.7,35.3,,Republican
+547,rep_clyde,Andrew Clyde,Andrew,Clyde,member_HOR,Georgia,17.7,49.2,,Republican
+33,austinscottga08,Austin Scott,Austin,Scott,member_HOR,Georgia,17.7,49.2,,Republican
+36,RepLoudermilk,Barry Loudermilk,Barry,Loudermilk,member_HOR,Georgia,17.7,49.2,error-fixed ID,Republican
+72,briankempga,Brian Kemp,Brian,Kemp,SG,Georgia,17.7,49.2,,Republican
+77,repbuddycarter,Buddy Carter,Buddy,Carter,member_HOR,Georgia,17.7,49.2,,Republican
+81,carolyn4ga7,Carolyn Bourdeaux,Carolyn,Bourdeaux,member_HOR,Georgia,17.7,49.2,,Democratic
+129,RepDavidScott,David Scott,David,Scott,member_HOR,Georgia,17.7,49.2,,Democratic
+156,drewfergusonga,Drew Ferguson,Drew,Ferguson,member_HOR,Georgia,17.7,49.2,,Republican
+572,GeoffDuncanGA,Geoff Duncan,Geoff,Duncan,SLG,Georgia,17.7,49.2,,Republican
+198,RepHankJohnson,Hank Johnson,Hank,Johnson,member_HOR,Georgia,17.7,49.2,,Democratic
+247,jodyhice,Jody Hice,Jody,Hice,member_HOR,Georgia,17.7,49.2,,Republican
+274,ossoff,Jon Ossoff,Jon,Ossoff,senator,Georgia,17.7,49.2,,Democratic
+329,lucymcbath,Lucy McBath,Lucy,McBath,member_HOR,Georgia,17.7,49.2,,Democratic
+341,mtgreenee,Marjorie Taylor Greene ,Marjorie,Taylor,member_HOR,Georgia,17.7,49.2,,Republican
+398,nikemawilliams,Nikema Williams,Nikema,Williams,member_HOR,Georgia,17.7,49.2,,Democratic
+614,reverendwarnock,Raphael Warnock,Raphael,Warnock,senator,Georgia,17.7,49.2,,Democratic
+432,rickallen,Rick W Allen,Rick,W,member_HOR,Georgia,17.7,49.2,,Republican
+457,sanfordbishop,Sanford Bishop Jr,Sanford,Bishop,member_HOR,Georgia,17.7,49.2,,Democratic
+74,brianschatz,Brian Schatz,Brian,Schatz,senator,Hawaii,3.4,14.9,,Democratic
+561,GovDavidIge,David Ige,David,Ige,SG,Hawaii,3.4,14.9,,Democratic
+161,edcasehawaii,Ed Case,Ed,Case,member_HOR,Hawaii,3.4,14.9,,Democratic
+286,kaikahele,Kai Kahele,Kai,Kahele,member_HOR,Hawaii,3.4,14.9,,Democratic
+358,mazieforhawaii,Mazie Hirono,Mazie,Hirono,senator,Hawaii,3.4,14.9,,Democratic
+62,governorlittle,Brad Little,Brad,Little,SG,Idaho,17.6,60.1,,Republican
+217,janicemcgeachin,Janice McGeachin,Janice,McGeachin,SLG,Idaho,17.6,60.1,,Republican
+242,SenatorRisch,Jim Risch for US Senate,Jim,Risch,senator,Idaho,17.6,60.1,error-ID,Republican
+371,MikeCrapo,Mike Craven for Congress ,Mike,Crapo,senator,Idaho,17.6,60.1,ERROR-changed handle to mikecrapo and state to IDAHO,Republican
+384,CongMikeSimpson,Mike Simpson,Mike,Simpson,member_HOR,Idaho,17.6,60.1,error-ID,Republican
+453,russfulcher,Russ Fulcher,Russ,Fulcher,member_HOR,Idaho,17.6,60.1,,Republican
+2,repkinzinger,Adam Kinzinger,Adam,Kinzinger,member_HOR,Illinois,14.1,27.8,,Republican
+45,RepBillFoster,Bill Foster,Bill,Foster,member_HOR,Illinois,14.1,27.8,error-fixedID,Democratic
+63,RepSchneider,Brad Schneider,Brad,Schneider,member_HOR,Illinois,14.1,27.8,,Democratic
+87,cheribustos,Cheri Bustos,Cheri,Bustos,member_HOR,Illinois,14.1,27.8,,Democratic
+233,RepChuyGarcia,Chuy Garca,Chuy,Garcia,member_HOR,Illinois,14.1,27.8,ERROR - changed state to Iowa,Democratic
+120,RepDannyDavis,Danny K Davis,Danny,K,member_HOR,Illinois,14.1,27.8,Error-fixed ID,Democratic
+121,replahood,Darin LaHood,Darin,LaHood,member_HOR,Illinois,14.1,27.8,,Republican
+146,dickdurbin,Dick Durbin,Dick,Durbin,senator,Illinois,14.1,27.8,,Democratic
+215,repschakowsky,Jan Schakowsky,Jan,Schakowsky,member_HOR,Illinois,14.1,27.8,,Democratic
+578,GovPritzker,JB Pritzker,J,B,SG,Illinois,14.1,27.8,,Democratic
+285,LtGovStratton,Juliana Stratton,Juliana,Stratton,SLG,Illinois,14.1,27.8,error-ID,Democratic
+315,laurenunderwood,Lauren Underwood,Lauren,Underwood,member_HOR,Illinois,14.1,27.8,,Democratic
+338,RepMarieNewman,Marie Newman,Marie,Newman,member_HOR,Illinois,14.1,27.8,,Democratic
+353,miller_congress,Mary Miller for Congress,Mary,Miller,member_HOR,Illinois,14.1,27.8,,Republican
+368,repmikebost,Mike Bost,Mike,Bost,member_HOR,Illinois,14.1,27.8,,Republican
+381,repmikequigley,Mike Quigley,Mike,Quigley,member_HOR,Illinois,14.1,27.8,,Democratic
+417,CongressmanRaja,Raja Krishnamoorthi,Raja,Krishnamoorthi,member_HOR,Illinois,14.1,27.8,ERROR- updated handle,Democratic
+438,reprobinkelly,Robin Kelly,Robin,Kelly,member_HOR,Illinois,14.1,27.8,,Democratic
+439,RodneyDavis,Rodney Davis,Rodney,Davis,member_HOR,Illinois,14.1,27.8,error-ID,Republican
+463,seancasten,Sean Casten,Sean,Casten,member_HOR,Illinois,14.1,27.8,,Democratic
+494,senduckworth,Tammy Duckworth,Tammy,Duckworth,senator,Illinois,14.1,27.8,,Democratic
+15,repandrecarson,Andr Carson,Andr,Carson,member_HOR,Indiana,17.3,44.8,,Democratic
+169,holcombforin,Eric Holcomb,Eric,Holcomb,SG,Indiana,17.3,44.8,,Republican
+570,RepMrvan,Frank Mrvan,Frank,J,member_HOR,Indiana,17.3,44.8,,Democratic
+189,gregpencein,Greg Pence,Greg,Pence,member_HOR,Indiana,17.3,44.8,,Republican
+205,RepWalorski,Jackie Walorski,Jackie,Walorski,member_HOR,Indiana,17.3,44.8,erroor-ID,Republican
+234,RepJimBaird,Jim Baird,Jim,Baird,member_HOR,Indiana,17.3,44.8,error-ID,Republican
+235,repjimbanks,Jim Banks,Jim,Banks,member_HOR,Indiana,17.3,44.8,,Republican
+312,replarrybucshon,Larry Bucshon MD,Larry,Bucshon,member_HOR,Indiana,17.3,44.8,,Republican
+369,SenatorBraun,Mike Braun,Mike,Braun,senator,Indiana,17.3,44.8,error-ID,Republican
+492,suzanne_crouch,Suzanne Crouch,Suzanne,Crouch,SLG,Indiana,17.3,44.8,,Republican
+511,toddyoungin,Todd Young,Todd,Young,senator,Indiana,17.3,44.8,,Republican
+527,reptrey,Trey Hollingsworth,Trey,Hollingsworth,member_HOR,Indiana,17.3,44.8,,Republican
+536,victoria_spartz,Victoria Spartz,Victoria,Spartz,member_HOR,Indiana,17.3,44.8,,Republican
+1,adamgreggia,Adam Gregg,Adam,Gregg,SLG,Iowa,11.2,43.6,,Republican
+31,hinsonashley,Ashley Hinson,Ashley,Hinson,member_HOR,Iowa,11.2,43.6,,Republican
+98,chuckgrassley,Chuck Grassley,Chuck,Grassley,senator,Iowa,11.2,43.6,ERROR - changed state to Iowa,Republican
+100,RepCindyAxne,Cindy Axne,Cindy,Axne,member_HOR,Iowa,11.2,43.6,,Democratic
+276,senjoniernst,Joni Ernst,Joni,Ernst,senator,Iowa,11.2,43.6,,Republican
+305,kimreynoldsia,Kim Reynolds,Kim,Reynolds,SG,Iowa,11.2,43.6,,Republican
+599,millermeeks,Marianette Miller-Meeks,Mariannette,MillerMeeks,member_HOR,Iowa,11.2,43.6,,Republican
+419,randyfeenstra,Randy Feenstra,Randy,Feenstra,member_HOR,Iowa,11.2,43.6,,Republican
+210,jakelaturner,Jake LaTurner,Jake,LaTurner,member_HOR,Kansas,16.9,48.9,,Republican
+313,laurakellyks,Laura Kelly,Laura,Kelly,SG,Kansas,16.9,48.9,,Democratic
+440,RogerMarshallMD,Robert Marshall,Roger,Marshall,senator,Kansas,16.9,48.9,ERROR-changed username and updated State to Kansas,Republican
+444,ronestesks,Ron Estes,Ron,Estes,member_HOR,Kansas,16.9,48.9,,Republican
+466,sharicedavids,Sharice Davids,Sharice,Davids,member_HOR,Kansas,16.9,48.9,,Democratic
+525,repmann,Tracey Mann,Tracey,Mann,member_HOR,Kansas,16.9,48.9,,Republican
+17,barrforcongress,Andy Barr,Andy,Barr,member_HOR,Kentucky,20.1,54.6,,Republican
+18,andybeshearky,Andy Beshear,Andy,Beshear,SG,Kentucky,20.1,54.6,,Democratic
+68,brettguthrie,Brett Guthrie,Brett,Guthrie,member_HOR,Kentucky,20.1,54.6,,Republican
+196,halrogersky5,Hal Rogers,Hal,Rogers,member_HOR,Kentucky,20.1,54.6,,Republican
+579,JColemanKY,Jacqueline Coleman,Jacqueline,Coleman,SLG,Kentucky,20.1,54.6,,Democratic
+212,jamescomer,James Comer,James,Comer,member_HOR,Kentucky,20.1,54.6,,Republican
+607,leadermcconnell,Mitch McConnell,Mitch,McConnell,senator,Kentucky,20.1,54.6,,Republican
+613,randpaul,Rand Paul,Rand,Paul,senator,Kentucky,20.1,54.6,,Republican
+503,repthomasmassie,Thomas Massie,Thomas,Massie,member_HOR,Kentucky,20.1,54.6,,Republican
+44,drcassidy,Bill Cassidy,Bill,Cassidy,senator,Louisiana,26.3,53.1,,Republican
+553,billyNungesser,Billy Nungesser,Billy,Nungesser,SLG,Louisiana,26.3,53.1,,Republican
+103,captclayhiggins,Clay Higgins,Clay,Higgins,member_HOR,Louisiana,26.3,53.1,,Republican
+178,garretgraves,Garret Graves,Garret,Graves,member_HOR,Louisiana,26.3,53.1,,Republican
+254,louisianagov,John Bel Edwards,John,Bel,SG,Louisiana,26.3,53.1,,Democratic
+266,senjohnkennedy,John Kennedy,John,Kennedy,senator,Louisiana,26.3,53.1,,Republican
+587,repjulialetlow,Julia Letlow,Julia,Letlow,member_HOR,Louisiana,26.3,53.1,,Republican
+375,mikejohnson,Mike Johnson,Mike,Johnson,member_HOR,Louisiana,26.3,53.1,,Republican
+482,stevescalisegop,Steve Scalise,Steve,Scalise,member_HOR,Louisiana,26.3,53.1,,Republican
+621,reptroycarter,Troy Carter,Troy,Carter,member_HOR,Louisiana,26.3,53.1,,Democratic
+548,senangusking,Angus King,Angus,King,senator,Maine,10.4,46.8,,Independent
+559,ChelliePingree,Chellie Pingree,Chellie,Pingree,member_HOR,Maine,10.4,46.8,,Democratic
+216,janetmillsforme,Janet Mills,Janet,Mills,SG,Maine,10.4,46.8,,Democratic
+218,RepGolden,Jared Golden for Congress,Jared,Golden,member_HOR,Maine,10.4,46.8,Error-fixed ID,Democratic
+487,senatorcollins,Susan Collins,Susan,Collins,senator,Maine,10.4,46.8,error-ID,Republican
+20,RepAndyHarrisMD,Andy Harris,Andy,Harris,member_HOR,Maryland,13.5,30.2,,Republican
+473,repanthonybrown,Anthony Brown,Shontel,Brown,member_HOR,Maryland,13.5,30.2,,Democratic
+27,anthonybrownmd4,Anthony G Brown,Anthony,G,member_HOR,Maryland,13.5,30.2,,Democratic
+37,SenatorCardin,Ben Cardin,Ben,Cardin,senator,Maryland,13.5,30.2,,Democratic
+556,boydkrutherford,Boyd Rutherford,Boyd,Rutherford,SLG,Maryland,13.5,30.2,,Republican
+95,ChrisVanHollen,Chris Van Hollen,Chris,Van,senator,Maryland,13.5,30.2,ERROR - updated handle,Democratic
+131,davidjtrone,David Trone,David,Trone,member_HOR,Maryland,13.5,30.2,,Democratic
+158,call_me_dutch,Dutch Ruppersberger,Dutch,Ruppersberger,member_HOR,Maryland,13.5,30.2,,Democratic
+214,jamie_raskin,Jamie Raskin,Jamie,Raskin,member_HOR,Maryland,13.5,30.2,,Democratic
+270,johnsarbanes,John Sarbanes,John,Sarbanes,member_HOR,Maryland,13.5,30.2,,Democratic
+309,RepKwesiMfume,Kweisi Mfume,Kweisi,Mfume,member_HOR,Maryland,13.5,30.2,error-ID,Democratic
+593,GovLarryHogan,Larry Hogan,Larry,Hogan,SG,Maryland,13.5,30.2,,Republican
+475,stenyhoyer,Steny Hoyer,Steny,Hoyer,member_HOR,Maryland,13.5,30.2,,Democratic
+34,ayannapressley,Ayanna Pressley,Ayanna,Pressley,member_HOR,Massachusetts,3.7,14.7,,Democratic
+49,USRepKeating,Bill Keating,Bill,Keating,member_HOR,Massachusetts,3.7,14.7,error-fixedID,Democratic
+85,massgovernor,Charlie Baker,Charlie,Baker,SG,Massachusetts,3.7,14.7,,Republican
+162,edmarkey,Ed Markey,Ed,Markey,senator,Massachusetts,3.7,14.7,,Democratic
+168,ewarren,Elizabeth Warren,Elizabeth,Warren,senator,Massachusetts,3.7,14.7,,Democratic
+209,jakeauch,Jake Auchincloss,Jake,Auchincloss,member_HOR,Massachusetts,3.7,14.7,,Democratic
+241,mcgovernma,Jim McGovern,Jim,McGovern,member_HOR,Massachusetts,3.7,14.7,,Democratic
+288,karynpolito,Karyn Polito,Karyn,Polito,SLG,Massachusetts,3.7,14.7,,Republican
+291,repkclark,Katherine Clark,Katherine,Clark,member_HOR,Massachusetts,3.7,14.7,,Democratic
+326,loritrahanma,Lori Trahan,Lori,Trahan,member_HOR,Massachusetts,3.7,14.7,,Democratic
+346,mariarobinsonma,Maria Robinson,Mark,Robinson,SLG,Massachusetts,3.7,14.7,,Democratic
+427,RepRichardNeal,Richard Neal,Richard,Neal,member_HOR,Massachusetts,3.7,14.7,error-ID,Democratic
+465,sethmoulton,Seth Moulton,Seth,Moulton,member_HOR,Massachusetts,3.7,14.7,,Democratic
+478,replynch,Stephen F Lynch,Stephen,F,member_HOR,Massachusetts,3.7,14.7,,Democratic
+22,andy_levin,Andy Levin,Andy,Levin,member_HOR,Michigan,14.6,40.2,,Democratic
+28,anthonyfeig,AnthonyFeig,Anthony,Gonzalez,member_HOR,Michigan,14.6,40.2,,Democratic
+47,billhuizenga,Bill Huizenga,Bill,Huizenga,member_HOR,Michigan,14.6,40.2,,Republican
+66,replawrence,Brenda Lawrence,Brenda,Lawrence,member_HOR,Michigan,14.6,40.2,,Democratic
+113,dankildee,Dan Kildee,Dan,Kildee,member_HOR,Michigan,14.6,40.2,,Democratic
+134,debdingell,Debbie Dingell,Debbie,Dingell,member_HOR,Michigan,14.6,40.2,,Democratic
+136,stabenow,Debbie Stabenow,Debbie,Stabenow,senator,Michigan,14.6,40.2,,Democratic
+167,elissaslotkin,Elissa Slotkin,Elissa,Slotkin,member_HOR,Michigan,14.6,40.2,,Democratic
+174,RepFredUpton,Fred Upton,Fred,Upton,member_HOR,Michigan,14.6,40.2,,Republican
+571,LtGovGilchrist,Garlin Gilchrist,Garlin,Gilchrist,SLG,Michigan,14.6,40.2,,Democratic
+180,garypeters,Gary Peters,Gary,Peters,senator,Michigan,14.6,40.2,,Democratic
+575,GovWhitmer,Gretchen Whitmer,Gretchen,Whitmer,SG,Michigan,14.6,40.2,,Democratic
+197,haleylive,Haley Stevens,Haley,Stevens,member_HOR,Michigan,14.6,40.2,,Democratic
+202,jackbergman_mi1,Jack Bergman,Jack,Bergman,member_HOR,Michigan,14.6,40.2,,Republican
+267,johnmoolenaar,John Moolenaar,John,Moolenaar,member_HOR,Michigan,14.6,40.2,,Republican
+320,RepLisaMclain,Lisa McClain for Congress,Lisa,McClain,member_HOR,Michigan,14.6,40.2,,Republican
+413,RepMeijer,Peter Meijer,Peter,Meijer,member_HOR,Michigan,14.6,40.2,,Republican
+422,rashidatlaib,Rashida Tlaib,Rashida,Tlaib,member_HOR,Michigan,14.6,40.2,,Democratic
+508,RepWalberg,Tim Walberg,Tim,Walberg,member_HOR,Michigan,14.6,40.2,"error-ID, State",Republican
+14,amyklobuchar,Amy Klobuchar,Amy,Klobuchar,senator,Minnesota,8.9,42.8,,Democratic
+23,angiecraigmn,Angie Craig,Angie,Craig,member_HOR,Minnesota,8.9,42.8,,Democratic
+552,bettymccollum04,Betty McCollum,Betty,McCollum,member_HOR,Minnesota,8.9,42.8,,Democratic
+132,deanbphillips,Dean Phillips ,Dean,Phillips,member_HOR,Minnesota,8.9,42.8,,Democratic
+201,ilhanmn,Ilhan Omar,Ilhan,Omar,member_HOR,Minnesota,8.9,42.8,,Democratic
+365,fischbachmn7,Michelle Fischbach,Michelle,Fischbach,member_HOR,Minnesota,8.9,42.8,,Republican
+407,peggyflanagan,Peggy Flanagan,Peggy,Flanagan,SLG,Minnesota,8.9,42.8,,Democratic
+411,reppetestauber,Pete Stauber,Pete,Stauber,member_HOR,Minnesota,8.9,42.8,,Republican
+231,,Terry Morrow,Terry,Morrow,senator,Minnesota,8.9,42.8,ERROR-remove,Democratic
+509,tim_walz,Tim Walz,Tim,Walz,SG,Minnesota,8.9,42.8,,Democratic
+510,tinasmithmn,Tina Smith,Tina,Smith,senator,Minnesota,8.9,42.8,,Democratic
+515,tomemmer,Tom Emmer,Tom,Emmer,member_HOR,Minnesota,8.9,42.8,,Republican
+551,benniegthompson,Bennie Thompson,Bennie,Thompson,member_HOR,Mississippi,28.6,55.8,,Democratic
+101,cindyhydesmith,Cindy HydeSmith,Cindy,HydeSmith,senator,Mississippi,28.6,55.8,,Republican
+140,delberthosemann,Delbert Hosemann,Delbert,Hosemann,SLG,Mississippi,28.6,55.8,,Republican
+362,RepMichaelGuest,Michael Guest,Michael,Guest,member_HOR,Mississippi,28.6,55.8,,Republican
+441,rogerwicker,Roger Wicker,Roger,Wicker,senator,Mississippi,28.6,55.8,,Republican
+486,stevenpalazzo,Steven Palazzo,Steven,Palazzo,member_HOR,Mississippi,28.6,55.8,,Republican
+495,tatereeves,Tate Reeves,Tate,Reeves,SG,Mississippi,28.6,55.8,,Republican
+526,RepTrentKelly,Trent Kelly,Trent,Kelly,member_HOR,Mississippi,28.6,55.8,,Republican
+25,repannwagner,Ann Wagner,Ann,Wagner,member_HOR,Missouri,23.9,48.8,,Republican
+53,USRepLong,Billy Long,Billy,Long,member_HOR,Missouri,23.9,48.8,error-fixedID,Republican
+54,luetkemeyerb,Blaine Luetkemeyer,Blaine,Luetkemeyer,member_HOR,Missouri,23.9,48.8,,Republican
+107,coribush,Cori Bush,Cori,Bush,member_HOR,Missouri,23.9,48.8,,Democratic
+569,repcleaver,Emmanuel Cleaver,Emanuel,Cleaver,member_HOR,Missouri,23.9,48.8,,Democratic
+221,jasonsmithmo,JasonSmithMO,Jason,Smith,member_HOR,Missouri,23.9,48.8,,Democratic
+279,senatus,Josh,Josh,Green,SLG,Missouri,23.9,48.8,,Republican
+281,hawleymo,Josh Hawley,Josh,Hawley,senator,Missouri,23.9,48.8,,Republican
+376,ltgovmikekehoe,Mike Kehoe,Mike,Kehoe,SLG,Missouri,23.9,48.8,,Republican
+380,mikeparson,Mike Parson,Mike,Parson,SG,Missouri,23.9,48.8,,Republican
+450,RoyBlunt,Roy Blunt,Roy,Blunt,senator,Missouri,23.9,48.8,ERROR - changed ID and updated state to Missouri,Republican
+535,vickyhartzler,Vicky Hartzler,Vicky,Hartzler,member_HOR,Missouri,23.9,48.8,,Republican
+187,GovGianforte,Greg Gianforte,Greg,Gianforte,SG,Montana,20.9,66.3,error-ID,Republican
+275,jontester,Jon Tester,Jon,Tester,senator,Montana,20.9,66.3,,Democratic
+592,,Kristen Juras,Kristen,Juras,SLG,Montana,20.9,66.3,,Republican
+356,mattformontana,Matt Rosendale,Matt,Rosendale,member_HOR,Montana,20.9,66.3,,Republican
+481,stevedaines,Steve Daines,Steve,Daines,senator,Montana,20.9,66.3,,Republican
+545,repadriansmith,Adrian Smith,Adrian,Smith,member_HOR,Nebraska,10.1,45.2,,Republican
+40,bensasse,Ben Sasse,Ben,Sasse,senator,Nebraska,10.1,45.2,,Republican
+133,debfischerne,Deb Fischer,Deb,Fischer,senator,Nebraska,10.1,45.2,,Republican
+148,donjbacon,Don Bacon,Don,Bacon,member_HOR,Nebraska,10.1,45.2,,Republican
+605,,Mike Foley,Mike,Foley,SLG,Nebraska,10.1,45.2,,Republican
+409,GovRicketts,Pete Ricketts,Pete,Ricketts,SG,Nebraska,10.1,45.2,error-ID,Republican
+83,SenCortezMasto,CatherineCortezMasto,Catherine,Cortez,senator,Nevada,17,47.3,error - updated ID,Democratic
+147,dinatitus,Dina Titus,Dina,Titus,member_HOR,Nevada,17,47.3,,Democratic
+206,SenJackyRosen,Jacky Rosen,Jacky,Rosen,senator,Nevada,17,47.3,error-ID state,Democratic
+595,Lgcanoburkhead,Lisa Cano,Lisa,Cano,SLG,Nevada,17,47.3,,Democratic
+342,amodeifornevada,Mark Amodei,Mark,Amodei,member_HOR,Nevada,17,47.3,,Republican
+483,stevesisolak,Steve Sisolak,Steve,Sisolak,SG,Nevada,17,47.3,,Democratic
+485,stevenhorsford,Steven Horsford,Steven,Horsford,member_HOR,Nevada,17,47.3,,Democratic
+489,susieleenv,Susie Lee,Susie,Lee,member_HOR,Nevada,17,47.3,,Democratic
+26,annmclanekuster,Annie Kuster,Annie,Kuster,member_HOR,New Hampshire,8.9,41.1,,Democratic
+92,chrispappasnh,Chris Pappas,Chris,Pappas,member_HOR,New Hampshire,8.9,41.1,,Democratic
+94,chrissununu,Chris Sununu,Chris,Sununu,SG,New Hampshire,8.9,41.1,,Republican
+224,jeanneshaheen,Jeanne Shaheen,Jeanne,Shaheen,senator,New Hampshire,8.9,41.1,,Democratic
+332,maggie_hassan,Maggie Hassan,Maggie,Hassan,senator,New Hampshire,8.9,41.1,,Democratic
+59,RepBobbyRush,NHBobby  Jindal ,Bobby,Rush,member_HOR,New Hampshire,8.9,41.1,,Democratic
+8,albiosiresnj,Albio Sires,Albio,Sires,member_HOR,New Jersey,5,14.7,,Democratic
+21,andykimnj,Andy Kim,Andy,Kim,member_HOR,New Jersey,5,14.7,,Democratic
+51,BillPascrell,Bill Pascrell Jr,Bill,Pascrell,member_HOR,New Jersey,5,14.7,error-fixedID,Democratic
+58,SenatorMenendez,Bob Menendez,Bob,Menendez,senator,New Jersey,5,14.7,"Error-fixed ID, state, name",Democratic
+61,RepBonnie,Bonnie Watson Coleman,Bonnie,Watson,member_HOR,New Jersey,5,14.7,error fixed ID,Democratic
+560,,Chris Smith,Chris,Smith,member_HOR,New Jersey,5,14.7,,Republican
+108,corybooker,Cory Booker,Cory,Booker,senator,New Jersey,5,14.7,,Democratic
+151,donnorcross,Donald Norcross,Donald,Norcross,member_HOR,New Jersey,5,14.7,,Democratic
+152,donaldpayne_jr,Donald Payne Jr,Donald,Payne,member_HOR,New Jersey,5,14.7,,Democratic
+172,pallonefornj,Frank Pallone Jr,Frank,Pallone,member_HOR,New Jersey,5,14.7,,Democratic
+227,Congressman_JVD,Jeff,Jeff,Van Drew,member_HOR,New Jersey,5,14.7,,Republican
+278,joshgottheimer,Josh Gottheimer,Josh,Gottheimer,member_HOR,New Jersey,5,14.7,,Democratic
+387,mikiesherrill,Mikie Sherrill,Mikie,Sherrill,member_HOR,New Jersey,5,14.7,,Democratic
+414,philmurphynj,Phil Murphy,Phil,Murphy,SG,New Jersey,5,14.7,,Democratic
+469,sheilaolivernj,Sheila Oliver,Sheila,Oliver,SLG,New Jersey,5,14.7,,Democratic
+516,malinowski,Tom Malinowski,Tom,Malinowski,member_HOR,New Jersey,5,14.7,,Democratic
+39,benraylujan,Ben Ray Lujn,Ben,Ray,senator,New Mexico,22.7,46.2,,Democratic
+200,LtGovMorales,Howie Morales,Howie,Morales,SLG,New Mexico,22.7,46.2,error-ID,Democratic
+351,martinheinrich,Martin Heinrich,Martin,Heinrich,senator,New Mexico,22.7,46.2,,Democratic
+603,rep_stansbury,Melanie Stansbury,Melanie,Stansbury,member_HOR,New Mexico,22.7,46.2,,Democratic
+366,govmlg,Michelle Lujan Grisham,Michelle,Lujan,SG,New Mexico,22.7,46.2,,Democratic
+500,teresafornm,Teresa Leger Fernandez,Teresa,Leger,member_HOR,New Mexico,22.7,46.2,,Democratic
+543,RepHerrell,Yvette Herrell,Yvette,Herrell,member_HOR,New Mexico,22.7,46.2,,Republican
+5,repespaillat,Adriano Espaillat,Adriano,Espaillat,member_HOR,New York,5.3,19.9,,Democratic
+11,aoc,Alexandria OcasioCortez,Alexandria,OcasioCortez,member_HOR,New York,5.3,19.9,,Democratic
+16,garbarinoforny,Andrew Garbarino,Andrew,Garbarino,member_HOR,New York,5.3,19.9,,Republican
+29,RepDelgado,Antonio Delgado,Antonio,Delgado,SLG,New York,5.3,19.9,Error-fixed ID,Democratic
+71,repbrianhiggins,Brian Higgins,Brian,Higgins,member_HOR,New York,5.3,19.9,,Democratic
+82,repmaloney,Carolyn  B Maloney,Carolyn,Maloney,member_HOR,New York,5.3,19.9,,Democratic
+90,jacobsny27,Chris Jacobs For Congress,Chris,Jacobs,member_HOR,New York,5.3,19.9,,Republican
+99,senschumer,Chuck Schumer,Chuck,Schumer,senator,New York,5.3,19.9,,Democratic
+102,claudiatenney,Claudia Tenney,Claudia,Tenney,member_HOR,New York,5.3,19.9,,Republican
+166,elisestefanik,Elise Stefanik,Elise,Stefanik,member_HOR,New York,5.3,19.9,,Republican
+184,RepGraceMeng,Grace Meng,Grace,Meng,member_HOR,New York,5.3,19.9,,Democratic
+192,gregmeeksnyc,Gregory Meeks,Gregory,Meeks,member_HOR,New York,5.3,19.9,,Democratic
+195,hakeemjeffries,Hakeem Jeffries,Hakeem,Jeffries,member_HOR,New York,5.3,19.9,,Democratic
+211,jamaalbowmanny,Jamaal Bowman,Jamaal,Bowman,member_HOR,New York,5.3,19.9,,Democratic
+232,jerrynadler,Jerry Nadler,Jerry,Nadler,member_HOR,New York,5.3,19.9,,Democratic
+292,kathleenrice,Kathleen Rice,Kathleen,Rice,member_HOR,New York,5.3,19.9,,Democratic
+294,repkathyhochul,Kathy Hochul,Kathy,Hochul,SG,New York,5.3,19.9,,Democratic
+306,sengillibrand,Kirsten Gillibrand,Kirsten,Gillibrand,senator,New York,5.3,19.9,,Democratic
+316,leezeldin,Lee Zeldin,Lee,Zeldin,member_HOR,New York,5.3,19.9,,Republican
+391,mondairejones,Mondaire Jones,Mondaire,Jones,member_HOR,New York,5.3,19.9,,Democratic
+397,nmalliotakis,Nicole Malliotakis,Nicole,Malliotakis,member_HOR,New York,5.3,19.9,,Republican
+609,nydiavelazquez,Nydia Velazquez,Nydia,Velzquez,member_HOR,New York,5.3,19.9,error-ID,Democratic
+406,reppaultonko,Paul Tonko ,Paul,Tonko,member_HOR,New York,5.3,19.9,,Democratic
+433,ritchietorres,Ritchie Torres,Ritchie,Torres,member_HOR,New York,5.3,19.9,,Democratic
+464,spmaloney,Sean Patrick Maloney,Sean,Patrick,member_HOR,New York,5.3,19.9,,Democratic
+618,reptomsuozzi,Thomas Suozzi,Thomas,Suozzi,member_HOR,New York,5.3,19.9,,Democratic
+542,yvetteclarke,Yvette Clarke,Yvette,Clarke,member_HOR,New York,5.3,19.9,,Democratic
+12,RepAdams,Alma Adams,Alma,Adams,member_HOR,North Carolina,16,45.8,Error-ID changed,Democratic
+111,RepDanBishop,Dan Bishop,Dan,Bishop,member_HOR,North Carolina,16,45.8,,Republican
+563,RepDavidEPrice,David Price,David,Price,member_HOR,North Carolina,16,45.8,,Democratic
+127,repdavidrouzer,David Rouzer,David,Rouzer,member_HOR,North Carolina,16,45.8,,Republican
+138,deborahrossnc,Deborah Ross,Deborah,Ross,member_HOR,North Carolina,16,45.8,,Democratic
+177,gkbutterfield,G K Butterfield,G,K,member_HOR,North Carolina,16,45.8,,Democratic
+188,RepGregMurphy,Gregory Murphy MD,Greg,Murphy,member_HOR,North Carolina,16,45.8,Error-fixed ID,Republican
+390,nchollygrange,Holly Grange,Molly,Gray,SLG,North Carolina,16,45.8,,Republican
+295,kathymanningnc,Kathy Manning,Kathy,Manning,member_HOR,North Carolina,16,45.8,,Democratic
+331,cawthornfornc,Madison Cawthorn,Madison,Cawthorn,member_HOR,North Carolina,16,45.8,,Republican
+370,mikecausey2020,Mike Causey,Mike,Causey,member_HOR,North Carolina,16,45.8,REMOVE,Republican
+153,DorisMatsui,Doris Matsui,Doris,Matsui,member_HOR,North Carolina,16,45.8,error-ID,Democratic
+403,patrickmchenry,Patrick McHenry,Patrick,McHenry,member_HOR,North Carolina,16,45.8,,Republican
+425,senatorburr,Richard Burr,Richard,Burr,senator,North Carolina,16,45.8,,Republican
+426,reprichhudson,Richard Hudson,Richard,Hudson,member_HOR,North Carolina,16,45.8,,Republican
+451,roycoopernc,Roy Cooper,Roy,Cooper,SG,North Carolina,16,45.8,,Democratic
+496,RepTedBudd,Ted Budd,Ted,Budd,member_HOR,North Carolina,16,45.8,,Republican
+502,thomtillis,Thom Tillis,Thom,Tillis,senator,North Carolina,16,45.8,,Republican
+537,virginiafoxx,Virginia Foxx,Virginia,Foxx,member_HOR,North Carolina,16,45.8,,Republican
+557,brentsanfordND,Brent Sanford,Brent,Sanford,SLG,North Dakota,13.8,55.1,,Republican
+566,dougburgum,Doug Burgum,Doug,Burgum,SG,North Dakota,13.8,55.1,,Republican
+299,armstrong_km,Kelly Armstrong,Kelly,Armstrong,member_HOR,North Dakota,13.8,55.1,,Republican
+588,SenKevinCramer,Kevin Cramer,Kevin,Cramer,senator,North Dakota,13.8,55.1,,Republican
+48,billjohnsonky,Bill Johnson,Bill,Johnson,member_HOR,Ohio,15.2,40,,Republican
+555,repbobgibbs,Bob Gibbs,Bob,Gibbs,member_HOR,Ohio,15.2,40,,Republican
+57,boblatta,Bob Latta,Bob,Latta,member_HOR,Ohio,15.2,40,,Republican
+65,bradwenstrup,Brad Wenstrup,Brad,Wenstrup,member_HOR,Ohio,15.2,40,,Republican
+67,CongBoyle,Breneman  Ohio,Brendan,Boyle,member_HOR,Ohio,15.2,40,ERROR- updated handle,Democratic
+125,repdavejoyce,Dave Joyce,David,Joyce,member_HOR,Ohio,15.2,40,,Republican
+130,repdavidleland,David Leland,David,Toland,SLG,Ohio,15.2,40,,Democratic
+240,Jim_Jordan,Jim Jordan,Jim,Jordan,member_HOR,Ohio,15.2,40,error-ID,Republican
+282,joycebeatty,Joyce Beatty,Joyce,Beatty,member_HOR,Ohio,15.2,40,,Democratic
+336,repmarcykaptur,Marcy Kaptur,Marcy,Kaptur,member_HOR,Ohio,15.2,40,,Democratic
+372,mikedewine,Mike DeWine,Mike,DeWine,SG,Ohio,15.2,40,,Republican
+386,miketurneroh,Mike Turner,Mike,Turner,member_HOR,Ohio,15.2,40,,Republican
+435,senrobportman,Rob Portman,Rob,Portman,senator,Ohio,15.2,40,,Republican
+472,sherrodbrown,Sherrod Brown,Sherrod,Brown,senator,Ohio,15.2,40,,Democratic
+479,stevechabot,Steve Chabot,Steve,Chabot,member_HOR,Ohio,15.2,40,,Republican
+506,timryan,Tim Ryan,Tim,Ryan,member_HOR,Ohio,15.2,40,,Democratic
+528,troy_balderson,Troy Balderson,Troy,Balderson,member_HOR,Ohio,15.2,40,,Republican
+538,warrendavidson,Warren Davidson,Warren,Davidson,member_HOR,Ohio,15.2,40,,Republican
+171,repfranklucas,Frank Lucas,Frank,Lucas,member_HOR,Oklahoma,20.7,54.7,,Republican
+213,jameslankford,James Lankford,James,Lankford,senator,Oklahoma,20.7,54.7,,Republican
+239,JimInhofe,Jim Inhofe,Jim,Inhofe,senator,Oklahoma,20.7,54.7,error-ID,Republican
+303,repkevinhern,Kevin Hern,Kevin,Hern,member_HOR,Oklahoma,20.7,54.7,,Republican
+590,GovStitt,Kevin Stitt,Kevin,Stitt,SG,Oklahoma,20.7,54.7,,Republican
+349,repmullin,Markwayne Mullin,Markwayne,Mullin,member_HOR,Oklahoma,20.7,54.7,,Republican
+602,ltgovpinnell,Matt Pinnell,Matt,Pinnell,SLG,Oklahoma,20.7,54.7,,Republican
+476,stephaniebice,Stephanie Bice,Stephanie,Bice,member_HOR,Oklahoma,20.7,54.7,,Republican
+104,cliffbentz,Cliff Bentz,Cliff,Bentz,member_HOR,Oregon,13,50.8,,Republican
+160,repblumenauer,Earl Blumenauer,Earl,Blumenauer,member_HOR,Oregon,13,50.8,,Democratic
+226,jeffmerkley,Jeff Merkley,Jeff,Merkley,senator,Oregon,13,50.8,,Democratic
+290,katebrownforor,Kate Brown,Kate,Brown,SG,Oregon,13,50.8,OregonGovBrown,Democratic
+308,RepSchrader,Kurt Schrader,Kurt,Schrader,member_HOR,Oregon,13,50.8,error-ID,Democratic
+412,RepPeterDeFazio,Peter DeFazio,Peter,DeFazio,member_HOR,Oregon,13,50.8,Error-fixed  ID,Democratic
+447,ronwyden,Ron Wyden,Ron,Wyden,senator,Oregon,13,50.8,,Democratic
+491,repbonamici,Suzanne Bonamici,Suzanne,Bonamici,member_HOR,Oregon,13,50.8,,Democratic
+55,bob_casey,Bob Casey Jr,Bob,Casey,senator,Pennsylvania,13.6,40.7,,Democratic
+70,brianfitzusa,Brian Fitzpatrick ,Brian,Fitzpatrick,member_HOR,Pennsylvania,13.6,40.7,,Republican
+96,rephoulahan,Chrissy Houlahan,Chrissy,Houlahan,member_HOR,Pennsylvania,13.6,40.7,,Democratic
+106,conorlambpa,Conor Lamb,Conor,Lamb,member_HOR,Pennsylvania,13.6,40.7,,Democratic
+115,RepMeuser,Dan Meuser,Dan,Meuser,member_HOR,Pennsylvania,13.6,40.7,Error-ID,Republican
+159,dwightevanspa,Dwight Evans,Dwight,Evans,member_HOR,Pennsylvania,13.6,40.7,,Democratic
+173,RepFredkeller,Fred Keller,Fred,Keller,member_HOR,Pennsylvania,13.6,40.7,,Republican
+573,CongressmanGT,Glenn Thompson,Glenn,Thompson,member_HOR,Pennsylvania,13.6,40.7,,Republican
+194,reschenthaler,Guy Reschenthaler,Guy,Reschenthaler,member_HOR,Pennsylvania,13.6,40.7,,Republican
+252,john_callahan,John B Callahan,John,B,member_HOR,Pennsylvania,13.6,40.7,,Democratic
+260,JohnFetterman,John Fetterman,John,Fetterman,SLG,Pennsylvania,13.6,40.7,,Democratic
+264,RepJohnJoyce,John Joyce,John,Joyce,member_HOR,Pennsylvania,13.6,40.7,error-ID,Republican
+324,lloydsmuckerpa,Lloyd Smucker,Lloyd,Smucker,member_HOR,Pennsylvania,13.6,40.7,,Republican
+330,madeleinedean,Madeleine Dean,Madeleine,Dean,member_HOR,Pennsylvania,13.6,40.7,,Democratic
+352,marygayscanlon,Mary Gay Scanlon,Mary,Gay,member_HOR,Pennsylvania,13.6,40.7,,Democratic
+354,cartwrightpa,Matt Cartwright,Matt,Cartwright,member_HOR,Pennsylvania,13.6,40.7,,Democratic
+373,usrepmikedoyle,Mike Doyle,Mike,Doyle,member_HOR,Pennsylvania,13.6,40.7,,Democratic
+377,MikeKellyPA,Mike Kelly for Congress,Mike,Kelly,member_HOR,Pennsylvania,13.6,40.7,,Republican
+401,SenToomey,Pat Toomey,Pat,Toomey,senator,Pennsylvania,13.6,40.7,,Republican
+615,repscottperry,Scott Perry,Scott,Perry,member_HOR,Pennsylvania,13.6,40.7,,Republican
+488,RepSusanWild,Susan Wild,Susan,Wild,member_HOR,Pennsylvania,13.6,40.7,,Democratic
+521,GovernorTomWolf,Tom Wolf,Tom,Wolf,SG,Pennsylvania,13.6,40.7,,Democratic
+114,danmckeeri,Dan McKee,Dan,McKee,SG,Rhode Island,5.1,14.8,,Democratic
+124,davidcicilline,David Cicilline,David,Cicilline,member_HOR,Rhode Island,5.1,14.8,,Democratic
+203,SenJackReed,Jack Reed,Jack,Reed,senator,Rhode Island,5.1,14.8,error-ID,Democratic
+581,jimlangevin,James Langevin,James,Langevin,member_HOR,Rhode Island,5.1,14.8,,Democratic
+454,sabina_matos,Sabina Matos,Sabina,Matos,SLG,Rhode Island,5.1,14.8,,Democratic
+470,sheldonforri,Sheldon Whitehouse,Sheldon,Whitehouse,senator,Rhode Island,5.1,14.8,,Democratic
+577,henrymcmaster,Henry McMaster,Henry,McMaster,SG,South Carolina,22,49.4,,Republican
+225,RepJeffDuncan,Jeff Duncan,Jeff,Duncan,member_HOR,South Carolina,22,49.4,error-ID,Republican
+236,WhipClyburn,Jim Clyburn SC,Jim,Clyburn,member_HOR,South Carolina,22,49.4,,Democratic
+251,repjoewilson,Joe Wilson,Joe,Wilson,member_HOR,South Carolina,22,49.4,,Republican
+318,lindseygrahamsc,Lindsey Graham,Lindsey,Graham,senator,South Carolina,22,49.4,,Republican
+393,nancymace,Nancy Mace,Nancy,Mace,member_HOR,South Carolina,22,49.4,,Republican
+610,pamelaevette,Pamela Evette,Pamela,Evette,SLG,South Carolina,22,49.4,,Republican
+418,ralphnorman,Ralph Norman,Ralph,Norman,member_HOR,South Carolina,22,49.4,,Republican
+507,senatortimscott,Tim Scott,Tim,Scott,senator,South Carolina,22,49.4,,Republican
+519,tomricesc7,Tom Rice,Tom,Rice,member_HOR,South Carolina,22,49.4,,Republican
+540,votetimmons,William Timmons,William,Timmons,member_HOR,South Carolina,22,49.4,,Republican
+157,dustyjohnson,Dusty Johnson for Congress,Dusty,Johnson,member_HOR,South Dakota,13.6,55.3,,Republican
+271,johnthune,John Thune,John,Thune,senator,South Dakota,13.6,55.3,,Republican
+307,kristinoem,Kristi Noem,Kristi,Noem,SG,South Dakota,13.6,55.3,,Republican
+594,lgrhoden,Larry Rhoden,Larry,Rhoden,SLG,South Dakota,13.6,55.3,,Republican
+383,SenatorRounds,Mike Rounds,Mike,Rounds,senator,South Dakota,13.6,55.3,error-ID,Republican
+46,billhagertytn,Bill Hagerty,Bill,Hagerty,senator,Tennessee,21.3,51.6,,Republican
+50,billleetn,Bill Lee,Bill,Lee,SG,Tennessee,21.3,51.6,,Republican
+97,RepChuck,Chuck Fleischmann,Chuck,Fleischmann,member_HOR,Tennessee,21.3,51.6,Error - updated ID,Republican
+126,davidkustoff,David Kustoff,David,Kustoff,member_HOR,Tennessee,21.3,51.6,,Republican
+144,dharshbargertn1,Diana Harshbarger,Diana,Harshbarger,member_HOR,Tennessee,21.3,51.6,,Republican
+237,RepJimCooper,Jim Cooper,Jim,Cooper,member_HOR,Tennessee,21.3,51.6,Error-fixedID,Democratic
+268,johnrosefortn,John Rose,John,Rose,member_HOR,Tennessee,21.3,51.6,,Republican
+344,RepMarkGreen,Mark E Green MD,Mark,E,member_HOR,Tennessee,21.3,51.6,,Republican
+350,marshablackburn,Marsha Blackburn,Marsha,Blackburn,senator,Tennessee,21.3,51.6,,Republican
+420,ltgovmcnally,Randy McNally,Randy,McNally,SLG,Tennessee,21.3,51.6,,Republican
+459,tndesjarlais,Scott DesJarlais,Scott,DesJarlais,member_HOR,Tennessee,21.3,51.6,,Republican
+480,repcohen,Steve Cohen,Steve,Cohen,member_HOR,Tennessee,21.3,51.6,,Democratic
+504,timburchett,Tim Burchett,Tim,Burchett,member_HOR,Tennessee,21.3,51.6,,Republican
+546,repalgreen,Al Green,Al,Green,member_HOR,Texas,14.2,45.7,,Democratic
+32,augustpfluger,August Pfluger,August,Pfluger,member_HOR,Texas,14.2,45.7,,Republican
+42,bethvanduyne,Beth Van Duyne,Beth,Van,member_HOR,Texas,14.2,45.7,,Republican
+69,brian_babin,Brian Babin,Brian,Babin,member_HOR,Texas,14.2,45.7,,Republican
+88,chiproytx,Chip Roy,Chip,Roy,member_HOR,Texas,14.2,45.7,,Republican
+105,colinallredtx,Colin Allred,Colin,Allred,member_HOR,Texas,14.2,45.7,,Democratic
+112,dancrenshawtx,Dan Crenshaw,Dan,Crenshaw,member_HOR,Texas,14.2,45.7,,Republican
+117,danpatrick,Dan Patrick,Dan,Patrick,SLG,Texas,14.2,45.7,,Republican
+568,repebj,Eddie Bernice,Eddie,Bernice,member_HOR,Texas,14.2,45.7,,Democratic
+,GovAbbott,Governor Abbott,Greg,Abbott,SG,Texas,14.2,45.7,ADDED,Republican
+186,gregabbott_tx,Greg Abbott,Greg,Abbott,SG,Texas,14.2,45.7,,Republican
+199,RepCuellar,Henry Cuellar,Henry,Cuellar,member_HOR,Texas,14.2,45.7,Error-fixedID,Democratic
+580,jakeellzey,Jake Ellzey,Jake,Ellzey,member_HOR,Texas,14.2,45.7,,Republican
+245,joaquincastrotx,Joaquin Castro,Joaquin,Castro,member_HOR,Texas,14.2,45.7,,Democratic
+246,jodeyarrington,Jodey Arrington,Jodey,Arrington,member_HOR,Texas,14.2,45.7,,Republican
+257,judgejohncarter,John Carter,John,Carter,member_HOR,Texas,14.2,45.7,,Republican
+297,grangercampaign,Kay Granger Campaign,Kay,Granger,member_HOR,Texas,14.2,45.7,,Republican
+302,RepKevinBrady,Kevin Brady for Congress,Kevin,Brady,member_HOR,Texas,14.2,45.7,,Republican
+311,lancegooden,Lance Gooden,Lance,Gooden,member_HOR,Texas,14.2,45.7,,Republican
+322,RepFletcher,Lizzie Pannill Fletcher,Lizzie,Pannill,member_HOR,Texas,14.2,45.7,error-ID,Democratic
+323,replloyddoggett,Lloyd Doggett,Lloyd,Doggett,member_HOR,Texas,14.2,45.7,,Democratic
+328,replouiegohmert,Louie Gohmert,Louie,Gohmert,member_HOR,Texas,14.2,45.7,,Republican
+334,marcveasey,Marc Veasey,Marc,Veasey,member_HOR,Texas,14.2,45.7,,Democratic
+361,michaeljcloud,Michael Cloud,Michael,Cloud,member_HOR,Texas,14.2,45.7,,Republican
+363,repmccaul,Michael McCaul,Michael,McCaul,member_HOR,Texas,14.2,45.7,,Republican
+400,RepPatFallon,Pat Fallon,Pat,Fallon,member_HOR,Texas,14.2,45.7,,Republican
+410,sessionstx17,Pete Sessions,Pete,Sessions,member_HOR,Texas,14.2,45.7,,Republican
+421,txrandy14,Randy Weber,Randy,Weber,member_HOR,Texas,14.2,45.7,,Republican
+442,rogerwilliamstx,Roger Williams,Roger,Williams,member_HOR,Texas,14.2,45.7,,Republican
+448,repronnyjackson,Ronny Jackson,Ronny,Jackson,member_HOR,Texas,14.2,45.7,,Republican
+468,jacksonLeeTX18,Sheila Jackson Lee,Sheila,Jackson,member_HOR,Texas,14.2,45.7,,Democratic
+617,repsylviagarcia,Sylvia Garcia,Sylvia,Garcia,member_HOR,Texas,14.2,45.7,,Democratic
+497,tedcruz,Ted Cruz,Ted,Cruz,senator,Texas,14.2,45.7,,Republican
+524,tonygonzales4tx,Tony Gonzales,Tony,Gonzales,member_HOR,Texas,14.2,45.7,,Republican
+,reptonygonzales,Tony Gonzales,Tony,Gonzales,member_HOR,Texas,14.2,45.7,"ADDED-double count, because this is the Uvalde Rep",Republican
+529,sherifftnehls,Troy Nehls,Troy,Nehls,member_HOR,Texas,14.2,45.7,,Republican
+531,vantaylortx,Van Taylor,Van,Taylor,member_HOR,Texas,14.2,45.7,,Republican
+533,vgescobar,Veronica Escobar,Veronica,Escobar,member_HOR,Texas,14.2,45.7,,Democratic
+534,RepGonzalez,Vicente Gonzalez,Vicente,Gonzalez,member_HOR,Texas,14.2,45.7,Error-ID,Democratic
+554,Repblakemoore,Blake Moore,Blake,Moore,member_HOR,Utah,13.6,46.8,,Republican
+78,burgessowens,Burgess Owens,Burgess,Owens,member_HOR,Utah,13.6,46.8,,Republican
+93,stewartforutah,Chris Stewart,Chris,Stewart,member_HOR,Utah,13.6,46.8,,Republican
+139,deidrehenderson,Deidre Henderson,Deidre,Henderson,SLG,Utah,13.6,46.8,,Republican
+259,curtisut,John Curtis,John,Curtis,member_HOR,Utah,13.6,46.8,,Republican
+378,senmikelee,Mike Lee,Mike,Lee,senator,Utah,13.6,46.8,,Republican
+388,mittromney,Mitt Romney,Mitt,Romney,senator,Utah,13.6,46.8,,Republican
+456,samgranato,Sam Granato,Sam,Graves,member_HOR,Utah,13.6,46.8,,Democratic
+474,spencerjcox,Spencer Cox,Spencer,Cox,SG,Utah,13.6,46.8,,Republican
+41,berniesanders,Bernie Sanders,Bernie,Sanders,senator,Vermont,11.6,50.5,error-fixedID,Independent
+402,SenatorLeahy,Patrick Leahy,Patrick,Leahy,senator,Vermont,11.6,50.5,"ERROR-changed name, ID, state",Democratic
+611,peterwelch,Peter Welch,Peter,Welch,member_HOR,Vermont,11.6,50.5,,Democratic
+415,GovPhilScott,Phil Scott for Vermont,Phil,Scott,SG,Vermont,11.6,50.5,,Republican
+0,RepSpanberger,Abigail Spanberger,Abigail,Spanberger,member_HOR,Virginia,13.4,44.6,,Democratic
+38,RepBenCline,Ben Cline,Ben,Cline,member_HOR,Virginia,13.4,44.6,error-fixedID,Republican
+56,RepBobGood,Bob Good for Congress,Bob,Good,member_HOR,Virginia,13.4,44.6,Error-fixed ID,Democratic
+60,bobbyscott,Bobby Scott,Bobby,Scott,member_HOR,Virginia,13.4,44.6,error fuxed ID,Democratic
+149,donbeyerva,Don Beyer,Don,Beyer,member_HOR,Virginia,13.4,44.6,,Democratic
+150,donald_mceachin,Donald McEachin,Donald,McEachin,member_HOR,Virginia,13.4,44.6,,Democratic
+164,elaineluriava,Elaine Luria,Elaine,Luria,member_HOR,Virginia,13.4,44.6,,Democratic
+182,GerryConnolly,Gerry Connolly,Gerry,Connolly,member_HOR,Virginia,13.4,44.6,Error-updated ID,Democratic
+574,GovernorVA,Glenn Youngkin,Glenn,Youngkin,SG,Virginia,13.4,44.6,,Republican
+228,jenniferwexton,Jennifer Wexton,Jennifer,Wexton,member_HOR,Virginia,13.4,44.6,,Democratic
+348,markwarnerva,Mark Warner HQ,Mark,Warner,senator,Virginia,13.4,44.6,,Democratic
+392,repmgriffith,Morgan Griffith,Morgan,Griffith,member_HOR,Virginia,13.4,44.6,,Republican
+436,RobWittman,Rob Wittman,Rob,Wittman,member_HOR,Virginia,13.4,44.6,,Republican
+501,RepTerriSewell,Terry Sewell,Terri,Sewell,member_HOR,Virginia,13.4,44.6,error-changed ID,Democratic
+505,timkaine,Tim Kaine,Tim,Kaine,senator,Virginia,13.4,44.6,,Democratic
+623,winsomesears,Winsome Sears,Winsome,Sears,SLG,Virginia,13.4,44.6,,Republican
+4,RepAdamSmith,Adam Smith,Adam,Smith,member_HOR,Washington,10.9,42.1,Error-ID changed,Democratic
+84,teamcmr,Cathy McMorris Rodgers,Cathy,McMorris,member_HOR,Washington,10.9,42.1,,Republican
+116,RepNewhouse,Dan Newhouse,Dan,Newhouse,member_HOR,Washington,10.9,42.1,Error-ID,Republican
+141,dennyheck,Denny Heck,Denny,Heck,SLG,Washington,10.9,42.1,,Democratic
+142,derekkilmer,Derek Kilmer,Derek,Kilmer,member_HOR,Washington,10.9,42.1,,Democratic
+208,jaimeforusrep,Jaime Herrera Beutler,Jaime,Herrera,member_HOR,Washington,10.9,42.1,,Republican
+222,jayinslee,Jay Inslee,Jay,Inslee,SG,Washington,10.9,42.1,,Democratic
+591,RepKimSchrier,Kim Schrier,Kim,Schrier,member_HOR,Washington,10.9,42.1,,Democratic
+598,senatorcantwell,Maria Cantwell,Maria,Cantwell,senator,Washington,10.9,42.1,,Democratic
+339,stricklandforwa,Marilyn Strickland,Marilyn,Strickland,member_HOR,Washington,10.9,42.1,,Democratic
+404,PattyMurray,Patty Murray,Patty,Murray,senator,Washington,10.9,42.1,"Error-changed state, party, ID",Democratic
+416,pramilajayapal,Pramila Jayapal,Pramila,Jayapal,member_HOR,Washington,10.9,42.1,,Democratic
+430,larsenrick,Rick Larsen,Rick,Larsen,member_HOR,Washington,10.9,42.1,,Democratic
+490,suzandelbene,Suzan DelBene,Suzan,DelBene,member_HOR,Washington,10.9,42.1,,Democratic
+9,RepAlexMooney,Alex Mooney,Alex,Mooney,member_HOR,West Virginia,18.1,58.5,,Republican
+80,carolmillerwv,Carol Miller,Carol,Miller,member_HOR,West Virginia,18.1,58.5,,Republican
+109,CraigPBlair,Craig Blair,Craig,Blair,SLG,West Virginia,18.1,58.5,,Republican
+562,RepMcKinley,David Mckinley,David,McKinley,member_HOR,West Virginia,18.1,58.5,,Republican
+585,wvgovernor,Jim Justice,Jim,Justice,SG,West Virginia,18.1,58.5,,Republican
+249,joemanchinwv,Joe Manchin,Joe,Manchin,senator,West Virginia,18.1,58.5,,Democratic
+471,sencapito,Shelley Moore Capito,Shelley,Moore,senator,West Virginia,18.1,58.5,,Republican
+76,repbryansteil,Bryan Steil,Bryan,Steil,member_HOR,Wisconsin,12.2,45.3,,Republican
+183,grothmanforwi,Glenn Grothman,Glenn,Grothman,member_HOR,Wisconsin,12.2,45.3,,Republican
+576,repgwenmoore,Gwen Moore,Gwen,Moore,member_HOR,Wisconsin,12.2,45.3,,Democratic
+333,theothermandela,Mandela Barnes,Mandela,Barnes,SLG,Wisconsin,12.2,45.3,,Democratic
+345,markpocan,Mark Pocan,Mark,Pocan,member_HOR,Wisconsin,12.2,45.3,,Democratic
+360,opelamichael,MichaelOpela,Michael,Opela,member_HOR,Wisconsin,12.2,45.3,,Republican
+374,mikeforwi,Mike Gallagher,Mike,Gallagher,member_HOR,Wisconsin,12.2,45.3,,Republican
+445,ronjohnsonwi,Ron Johnson,Ron,Johnson,senator,Wisconsin,12.2,45.3,,Republican
+446,RepRonKind,Ron Kind,Ron,Kind,member_HOR,Wisconsin,12.2,45.3,error-ID,Democratic
+460,RepFitzgerald,Scott Fitzgerald,Scott,Fitzgerald,member_HOR,Wisconsin,12.2,45.3,error-ID,Republican
+493,tammybaldwin,Tammy Baldwin,Tammy,Baldwin,senator,Wisconsin,12.2,45.3,,Democratic
+520,tomtiffanywi,Tom Tiffany,Tom,Tiffany,member_HOR,Wisconsin,12.2,45.3,,Republican
+523,GovEvers,Tony Evers,Tony,Evers,SG,Wisconsin,12.2,45.3,ERROR-changed ID,Democratic
+110,cynthiamlummis,Cynthia Lummis,Cynthia,Lummis,senator,Wyoming,25.9,66.2,,Republican
+253,SenJohnBarrasso,John Barrasso,John,Barrasso,senator,Wyoming,25.9,66.2,"ERROR - changed ID, updated state",Republican
+321,liz_cheney,Liz Cheney,Liz,Cheney,member_HOR,Wyoming,25.9,66.2,,Republican
+600,governorgordon,Mark Gordon,Mark,Gordon,SG,Wyoming,25.9,66.2,,Republican
